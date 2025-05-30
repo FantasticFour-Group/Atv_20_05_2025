@@ -1,6 +1,3 @@
-Aqui está o arquivo `.md` que você pediu, com todo o conteúdo formatado para um README:
-
-```markdown
 # FantasticFour-Group
 
 ---
@@ -213,4 +210,3 @@ Nosso plano de ação foca no desenvolvimento das habilidades que o grupo precis
 * SÓLIDES. Hard skills: o que são, como identificar e quais as mais populares. **Sólides**. Disponível em: [inserir link quando houver]. Acesso em: 27 maio 2025.
 * VILAÇA, Fábio José de Lima; ARAÚJO, Jorge Luiz de. Liderança: uma análise sobre os estilos de liderança e o papel do líder nas organizações. **Revista Espacios**, v. 36, n. 6, p. 15, 2015. Disponível em: https://revistaespacios.com/a15v36n06/15360615.html. Acesso em: 27 maio 2025.
 * WEBER, Max. **Economia e sociedade: fundamentos da sociologia compreensiva**. Brasília: Editora UnB, 2004.
-```
